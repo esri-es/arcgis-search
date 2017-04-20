@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
   <ShortName>ArcGIS Search</ShortName>
   <Description>Search resources about ArcGIS</Description>
   <Tags>arcgis resources</Tags>
-  <Image height="16" width="16" type="image/vnd.microsoft.icon">https://www.arcgis.com/favicon.ico</Image>
+  <Image height="16" width="16" type="image/vnd.microsoft.icon">https://esri-es.github.io/arcgis-search/assets/img/favicon_x16.ico</Image>
   <Url type="text/html" template="https://esri-es.github.io/arcgis-search?search={searchTerms}&amp;utm_source=opensearch" />
   <Query role="example" searchTerms="vector" />
 </OpenSearchDescription>

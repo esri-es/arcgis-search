@@ -1,54 +1,65 @@
 <html>
 <head>
-<title>ArcGIS Search</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://fonts.googleapis.com/css?family=Nunito:600,700" rel="stylesheet">
+  <title>ArcGIS Search</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:600,700" rel="stylesheet">
 
-<link rel="shortcut icon" href="https://www.arcgis.com/favicon.ico">
-<link rel="search" type="application/opensearchdescription+xml" href="https://esri-es.github.io/arcgis-search/opensearch.xml" title="ArcGIS Search">
+  <link rel="shortcut icon" href="https://www.arcgis.com/favicon.ico">
+  <link rel="search" type="application/opensearchdescription+xml" href="https://esri-es.github.io/arcgis-search/opensearch.xml" title="ArcGIS Search">
 
-<style type="text/css">
-#container{
-  width: 80%;
-  margin: 0 auto;
-}
-.gsc-input{
-  background-color: #fff;
-  height: 44px;
-  vertical-align: top;
-  border-radius: 2px;
-  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
-  transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1);
-}
-.gsc-input-box,
-input {
-  border: 0!important;
-  box-shadow: none !important;
-}
-.gsc-search-button input{
-  margin-left: 1rem !important;
-  padding: 1rem 2rem !important;
-  background-color: #5989f3 !important;
-}
-.centered{
-  text-align: center;
-margin-top: 3rem;
-font-family: 'Nunito', sans-serif;
-font-size: 1.5rem;
-font-weight: 600;
+  <style type="text/css">
+  #container{
+    width: 80%;
+    margin: 0 auto;
+  }
+  .gsc-input{
+    background-color: #fff;
+    height: 44px;
+    vertical-align: top;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1);
+  }
+  .gsc-input-box,
+  input {
+    border: 0!important;
+    box-shadow: none !important;
+  }
+  .gsc-search-button input{
+    margin-left: 1rem !important;
+    padding: 1rem 2rem !important;
+    background-color: #5989f3 !important;
+  }
+  .centered{
+    text-align: center;
+    margin-top: 3rem;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
 
-}
-#logo{
-  width: 200px;
-vertical-align: top;
-margin-right: 1rem;
+  }
+  #logo{
+    width: 200px;
+    vertical-align: top;
+    margin-right: 1rem;
 
-}
-
-</style>
+  }
+  .gsc-cursor-box{
+    margin-top: 1.25rem !important;
+  }
+  .gsc-cursor-page{
+    border: 1px dotted #ccc;
+    padding: .5rem 1rem;
+    background-color: #f7f7f7 !important;
+    cursor: pointer;
+  }
+  .gsc-cursor-page:hover{
+    background-color: #f2f2f2 !important;
+  }
+  </style>
 </head>
 <body>
-<script>
+  <script>
 
   // API: https://developers.google.com/custom-search/docs/element
   (function() {
@@ -60,13 +71,13 @@ margin-right: 1rem;
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(gcse, s);
   })();
-</script>
-<div id="container">
-  <p class="centered">
-    <img src="assets/img/Esri_logo_small.png" alt="Esri logo" id="logo">
-    Search
-  </p>
-  <gcse:search enableHistory="true" queryParameterName="search"></gcse:search>
-</div>
+  </script>
+  <div id="container">
+    <p class="centered">
+      <img src="assets/img/Esri_logo_small.png" alt="Esri logo" id="logo">
+      Search
+    </p>
+    <gcse:search enableHistory="true" queryParameterName="search"></gcse:search>
+  </div>
 </body>
 </html>

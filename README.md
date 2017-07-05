@@ -38,7 +38,7 @@ There are some searches that you may want to do but there is no specific metadat
 
 This search will allow you to find public content from any user inside an organization.
 
-Search by organization id -> [orgid:*ORGANIZATION_ID*](http://www.arcgis.com/home/search.html?q=orgid%3AP3ePLMYs2RVChkJx&t=content&start=1&sortOrder=desc&sortField=relevance)
+Search by organization id, e.g-> [orgid:AP3ePLMYs2RVChkJx](http://www.arcgis.com/home/search.html?q=orgid%3AP3ePLMYs2RVChkJx&t=content&start=1&sortOrder=desc&sortField=relevance)
 
 You can find an organization id from:
 * The item metadata (field orgId): [item metadata example](http://www.arcgis.com/sharing/rest/content/items/4d29eb6f07e94b669c0b90c2aa267100?f=json)

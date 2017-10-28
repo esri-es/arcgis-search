@@ -11,9 +11,9 @@
 
 * Buscar expertos a quien seguir: busca speakers en charlas
 
-# ¿Dónse busca Esri Search?
+# ¿Dónde busca Esri Search?
 
-* Más de 12 repositorios de personal de Esri y Esri, por ej: *.github.com/Esri, *.github.com/ycabon
+* Más de 12 repositorios de personal de Esri y Esri, por ej: *.github.com/Esri, *.github.com/ycabon, *.github.com/maplabs, ...
 * Dominios de Esri Inc:
   * www.esri.com/*
   * esri-es.github.io/awesome-arcgis/*

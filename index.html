@@ -56,7 +56,42 @@
   .gsc-cursor-page:hover{
     background-color: #f2f2f2 !important;
   }
+  .gsc-resultsbox-visible{
+    width: 80% !important;
+    float: left;
+    }
+    .gsc-adBlock{
+        width: 20% !important;
+    float: right;
+    }
+form.gsc-search-box{
+        margin-bottom: 24px !important;
+}
   </style>
+  <!-- Start of Async Drift Code -->
+<script>
+!function() {
+  var t;
+  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+  t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+  t.factory = function(e) {
+    return function() {
+      var n;
+      return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+    };
+  }, t.methods.forEach(function(e) {
+    t[e] = t.factory(e);
+  }), t.load = function(t) {
+    var e, n, o, i;
+    e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+    n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+  });
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('naggtbcihd9b');
+</script>
+<!-- End of Async Drift Code -->
 </head>
 <body>
   <script>
@@ -78,6 +113,9 @@
       Search
     </p>
     <gcse:search enableHistory="true" queryParameterName="search"></gcse:search>
+    <p style="text-align:center;font-size:.9rem">
+        <a href="https://github.com/esri-es/arcgis-search/blob/master/TIPS_AND_TRICKS.md#dónse-busca-esri-search">Where does this search engine search?</a>
+    <p>
   </div>
 </body>
 </html>

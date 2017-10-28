@@ -11,10 +11,10 @@
 
 * Buscar expertos a quien seguir: busca speakers en charlas
 
-# ¿Dónde busca Esri Search?
+# Which are the `ArcGIS Search` project sources
 
-* **Más de 12 repositorios de personal de Esri, por ej**: github.com/Esri, github.com/esridc, github.com/esripdx, github.com/Esri-DevCenter-Beijing, github.com/ycabon, github.com/tomwayson, github.com/hhkaos, ...
-* **Dominios de Esri Inc**:
+* **More than 12 repositorios Github accounts, for example**: github.com/Esri, github.com/esridc, github.com/esripdx, github.com/Esri-DevCenter-Beijing, github.com/ycabon, github.com/tomwayson, github.com/hhkaos, ...
+* **Esri's Inc domains**:
   * www.esri.com/*
   * developers.arcgis.com/*
   * resources.arcgis.com/*
@@ -35,14 +35,14 @@
   * terraformer.io
   * pdx.esri.com/*
   * dc.esri.com/*
-* **Dominios de Esri España**:
+* **Esri's España domains**:
   * esri-es.github.io/awesome-arcgis/*
   * github.com/esri-es/*
   * desarrolladores.esri.es/*
   * www.geodevelopers.org/*
-* **Dominios de Esri UK**:
+* **Esri's UK domains**:
   * github.com/maplabs/*
-* **Otros dominios**: 
+* **Other domains**: 
   * odoe.net/*
   * gis.stackexchange.com
   

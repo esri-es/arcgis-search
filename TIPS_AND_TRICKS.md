@@ -13,7 +13,7 @@
 
 # ¿Dónde busca Esri Search?
 
-* Más de 12 repositorios de personal de Esri y Esri, por ej: *.github.com/Esri, *.github.com/ycabon, *.github.com/maplabs, ...
+* Más de 12 repositorios de personal de Esri y Esri, por ej: *.github.com/Esri, *.github.com/ycabon, *.github.com/maplabs, *.github.com/esri-es, ...
 * Dominios de Esri Inc:
   * www.esri.com/*
   * esri-es.github.io/awesome-arcgis/*

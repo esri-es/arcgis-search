@@ -33,10 +33,21 @@
 * Otros dominios: 
   * odoe.net/*
   
-# Install ArcGIS Search
+# How to install ArcGIS Search
 
 ## Google Chrome
-  
+
+Follow this three simple steps:
+
+1. Open: [chrome://settings/searchEngines](chrome://settings/searchEngines)
+
+2. Add any `keyword` and this URL `https://esri-es.github.io/arcgis-search?search={searchTerms}&amp;utm_source=opensearch`
+
+3. Type the `keyword` you have chosen and then press the `tab` key and... Ta Da! you are ready to type your search text.
+
+![Install ArcGIS Search animated GIF](./assets/img/ArcGIS-Search-HD.gif)
+
+
 # Google Cheatsheet
 
 ![Chuleta GOogle Search](https://cdn.zapier.com/storage/photos/1909af2500a0b1cce729037082e3f408.png)

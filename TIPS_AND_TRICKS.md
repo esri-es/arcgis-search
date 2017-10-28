@@ -32,5 +32,11 @@
   * learn.arcgis.com/*
 * Otros dominios: 
   * odoe.net/*
+  
+# Install ArcGIS Search
+
+## Google Chrome
+  
+# Google Cheatsheet
 
 ![Chuleta GOogle Search](https://cdn.zapier.com/storage/photos/1909af2500a0b1cce729037082e3f408.png)

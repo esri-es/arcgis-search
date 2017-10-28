@@ -13,10 +13,10 @@
 
 # ¿Dónde busca Esri Search?
 
-* Más de 12 repositorios de personal de Esri y Esri, por ej: *.github.com/Esri, *.github.com/ycabon, *.github.com/maplabs, *.github.com/esri-es, ...
-* Dominios de Esri Inc:
+* **Más de 12 repositorios de personal de Esri, por ej**: github.com/Esri, github.com/esridc, github.com/esripdx, github.com/Esri-DevCenter-Beijing, github.com/ycabon, github.com/tomwayson, github.com/hhkaos, ...
+* **Dominios de Esri Inc**:
   * www.esri.com/*
-  * esri-es.github.io/awesome-arcgis/*
+  * developers.arcgis.com/*
   * resources.arcgis.com/*
   * marketplace.arcgis.com/*
   * codesharing.arcgis.com/*
@@ -28,10 +28,23 @@
   * blogs.esri.com/esri/*
   * doc.arcgis.com/*
   * geonet.esri.com/*
+  * community.esri.com/*
   * esri.com/videos/*
   * learn.arcgis.com/*
-* Otros dominios: 
+  * help.arcgis.com/*
+  * terraformer.io
+  * pdx.esri.com/*
+  * dc.esri.com/*
+* **Dominios de Esri España**:
+  * esri-es.github.io/awesome-arcgis/*
+  * github.com/esri-es/*
+  * desarrolladores.esri.es/*
+  * www.geodevelopers.org/*
+* **Dominios de Esri UK**:
+  * github.com/maplabs/*
+* **Otros dominios**: 
   * odoe.net/*
+  * gis.stackexchange.com
   
 # How to install ArcGIS Search
 

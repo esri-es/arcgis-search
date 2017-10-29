@@ -36,8 +36,8 @@
   * pdx.esri.com/*
   * dc.esri.com/*
 * **Esri's España domains**:
-  * www.esri.es/*
-  * desarrolladores.esri.es/*
+  * www.esri.es/*
+  * desarrolladores.esri.es/*
   * startups.esri.es/*
   * ce17.esri.es*
   * github.com/esri-es/*

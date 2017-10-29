@@ -8,68 +8,131 @@
   <link rel="search" type="application/opensearchdescription+xml" href="https://esri-es.github.io/arcgis-search/opensearch.xml" title="ArcGIS Search">
 
   <style type="text/css">
-    #container{
-      width: 80%;
-      margin: 0 auto;
-    }
-    .gsc-input{
-      background-color: #fff;
-      height: 44px;
-      vertical-align: top;
-      border-radius: 2px;
-      box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
-      transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1);
-    }
-    .gsc-input-box,
-    input {
-      border: 0!important;
-      box-shadow: none !important;
-    }
-    .gsc-search-button input{
-      margin-left: 1rem !important;
-      padding: 1rem 2rem !important;
-      background-color: #5989f3 !important;
-    }
-    .centered{
-      text-align: center;
-      margin-top: 3rem;
-      font-family: 'Nunito', sans-serif;
-      font-size: 1.5rem;
-      font-weight: 600;
-    }
-    #logo{
-      width: 200px;
-      vertical-align: top;
-      margin-right: 1rem;
-    }
-    .gsc-cursor-box{
-      margin-top: 1.25rem !important;
-    }
-    .gsc-cursor-page{
-      border: 1px dotted #ccc;
-      padding: .5rem 1rem;
-      background-color: #f7f7f7 !important;
-      cursor: pointer;
-    }
-    .gsc-cursor-page:hover{
-      background-color: #f2f2f2 !important;
-    }
+  #container{
+    width: 90%;
+    margin: 0 auto;
+  }
+  .gsc-above-wrapper-area,
+  .gsc-resultsbox-visible{
+    width: 70% !important;
+    float: left;
+  }
+  .gsc-adBlock{
+    width: 25% !important;
+    margin-left: 5%;
+    float: right;
+  }
+  /* Custom, iPhone Retina */
+  @media only screen and (min-width : 320px) {
+
+  }
+
+  /* Extra Small Devices, Phones */
+  @media only screen and (min-width : 480px) {
+
+  }
+
+  /* Small Devices, Tablets */
+  @media only screen and (min-width : 768px) {
+
+  }
+
+  /* Medium Devices, Desktops */
+  @media only screen and (min-width : 992px) {
+
+  }
+
+  /* Large Devices, Wide Screens */
+  @media only screen and (min-width : 1200px) {
+
+  }
+
+  /*==========  Non-Mobile First Method  ==========*/
+
+  /* Large Devices, Wide Screens */
+  @media only screen and (max-width : 1200px) {
     .gsc-resultsbox-visible{
-      width: 80% !important;
+      width: 70% !important;
       float: left;
     }
     .gsc-adBlock{
-      width: 20% !important;
+      width: 27% !important;
+      margin-left: 3%;
       float: right;
     }
-    form.gsc-search-box{
-      margin-bottom: 24px !important;
-    }
-    #footerTxt{
-      text-align: center;
-      font-size: .8rem;
-      font-family: system-ui;
-    }
+  }
+
+  /* Medium Devices, Desktops */
+  @media only screen and (max-width : 992px) {
+
+  }
+
+  /* Small Devices, Tablets */
+  @media only screen and (max-width : 768px) {
+
+  }
+
+  /* Extra Small Devices, Phones */
+  @media only screen and (max-width : 480px) {
+
+  }
+
+  /* Custom, iPhone Retina */
+  @media only screen and (max-width : 320px) {
+
+  }
+
+  .gsc-input{
+    background-color: #fff;
+    height: 44px;
+    vertical-align: top;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1);
+  }
+  .gsc-input-box,
+  input {
+    border: 0!important;
+    box-shadow: none !important;
+  }
+  .gsc-search-button input{
+    margin-left: 1rem !important;
+    padding: 1rem 2rem !important;
+    background-color: #5989f3 !important;
+  }
+  .centered{
+    text-align: center;
+    margin-top: 3rem;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+  #logo{
+    width: 200px;
+    vertical-align: top;
+    margin-right: 1rem;
+  }
+  .gsc-cursor-box{
+    margin-top: 1.25rem !important;
+  }
+  .gsc-cursor-page{
+    border: 1px dotted #ccc;
+    padding: .5rem 1rem;
+    background-color: #f7f7f7 !important;
+    cursor: pointer;
+  }
+  .gsc-cursor-page:hover{
+    background-color: #f2f2f2 !important;
+  }
+
+  form.gsc-search-box{
+    margin-bottom: 24px !important;
+  }
+  #footerTxt{
+    text-align: center;
+    font-size: .8rem;
+    font-family: system-ui;
+  }
   </style>
   <!-- Start of Async Drift Code -->
   <script>
@@ -79,16 +142,16 @@
 </head>
 <body>
   <script>
-    // API: https://developers.google.com/custom-search/docs/element
-    (function() {
-      var cx = '011889005247941996496:ltfeti9nnlq';
-      var gcse = document.createElement('script');
-      gcse.type = 'text/javascript';
-      gcse.async = true;
-      gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(gcse, s);
-    })();
+  // API: https://developers.google.com/custom-search/docs/element
+  (function() {
+    var cx = '011889005247941996496:ltfeti9nnlq';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
   </script>
 
   <div id="container">
@@ -105,10 +168,10 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-49620025-13"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-49620025-13');
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-49620025-13');
   </script>
 
 </body>

@@ -36,11 +36,14 @@
   * pdx.esri.com/*
   * dc.esri.com/*
 * **Esri's España domains**:
-  * esri-es.github.io/awesome-arcgis/*
+  * www.esri.es/*
+  * desarrolladores.esri.es/*
+  * startups.esri.es/*
+  * ce17.esri.es*
   * github.com/esri-es/*
-  * desarrolladores.esri.es/*
-  * www.geodevelopers.org/*
+  * esri-es.github.io/awesome-arcgis/*
   * github.com/geo-developers/*
+  * www.geodevelopers.org/*
 * **Esri's UK domains**:
   * github.com/maplabs/*
 * **Other domains**: 

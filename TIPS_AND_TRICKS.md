@@ -40,6 +40,7 @@
   * github.com/esri-es/*
   * desarrolladores.esri.es/*
   * www.geodevelopers.org/*
+  * github.com/geo-developers/*
 * **Esri's UK domains**:
   * github.com/maplabs/*
 * **Other domains**: 

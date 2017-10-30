@@ -48,6 +48,8 @@
   * github.com/maplabs/*
 * **Other domains**: 
   * odoe.net/*
+  * tomwayson.com/*
+  * gavinr.com/*
   * gis.stackexchange.com
   
 # How to install ArcGIS Search

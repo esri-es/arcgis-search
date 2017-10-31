@@ -44,6 +44,7 @@
   * esri-es.github.io/awesome-arcgis/*
   * github.com/geo-developers/*
   * www.geodevelopers.org/*
+  * meetup.com/es-ES/Geo-Developers/*
 * **Esri's UK domains**:
   * github.com/maplabs/*
 * **Other domains**: 

@@ -36,14 +36,21 @@
   * pdx.esri.com/*
   * dc.esri.com/*
 * **Esri's España domains**:
-  * esri-es.github.io/awesome-arcgis/*
-  * github.com/esri-es/*
+  * www.esri.es/*
   * desarrolladores.esri.es/*
+  * startups.esri.es/*
+  * ce17.esri.es*
+  * github.com/esri-es/*
+  * esri-es.github.io/awesome-arcgis/*
+  * github.com/geo-developers/*
   * www.geodevelopers.org/*
+  * meetup.com/es-ES/Geo-Developers/*
 * **Esri's UK domains**:
   * github.com/maplabs/*
 * **Other domains**: 
   * odoe.net/*
+  * tomwayson.com/*
+  * gavinr.com/*
   * gis.stackexchange.com
   
 # How to install ArcGIS Search

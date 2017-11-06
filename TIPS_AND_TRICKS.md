@@ -13,7 +13,7 @@
 
 # Which are the `ArcGIS Search` project sources
 
-* **More than 12 repositorios Github accounts, for example**: github.com/Esri, github.com/esridc, github.com/esripdx, github.com/Esri-DevCenter-Beijing, github.com/ycabon, github.com/tomwayson, github.com/hhkaos, ...
+* **More than 12 Github accounts, for example**: github.com/Esri, github.com/esridc, github.com/esripdx, github.com/Esri-DevCenter-Beijing, github.com/ycabon, github.com/tomwayson, github.com/hhkaos, ...
 * **Esri's Inc domains**:
   * www.esri.com/*
   * developers.arcgis.com/*
@@ -35,7 +35,7 @@
   * terraformer.io
   * pdx.esri.com/*
   * dc.esri.com/*
-* **Esri's España domains**:
+* **Esri's Spain domains**:
   * www.esri.es/*
   * desarrolladores.esri.es/*
   * startups.esri.es/*

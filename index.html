@@ -133,6 +133,11 @@
     font-size: .8rem;
     font-family: system-ui;
   }
+  #gsc-i-id1{
+    /*text-indent: 0 !important;
+    background: none !important;*/
+  }
+
   </style>
   <!-- Start of Async Drift Code -->
   <script>
@@ -159,9 +164,19 @@
       <img src="assets/img/Esri_logo_small.png" alt="Esri logo" id="logo">
       Search
     </p>
-    <gcse:search queryParameterName="search" gaQueryParameter="search"></gcse:search>
+    <gcse:search queryParameterName="search" gaQueryParameter="search" placeholder="Enter a product, issue, etc"></gcse:search>
     <p id="footerTxt">
-      <a href="https://github.com/esri-es/arcgis-search/blob/master/TIPS_AND_TRICKS.md#which-are-the-arcgis-search-project-sources">Search engine sources</a> | <a href="https://github.com/esri-es/arcgis-search/blob/master/TIPS_AND_TRICKS.md#how-to-install-arcgis-search">Install in browser</a>
+      <a href="https://github.com/esri-es/arcgis-search/blob/master/TIPS_AND_TRICKS.md#which-are-the-arcgis-search-project-sources">
+        Search engine sources
+      </a>
+      |
+      <a href="https://github.com/esri-es/arcgis-search/blob/master/TIPS_AND_TRICKS.md#how-to-install-arcgis-search">
+        Install in browser
+      </a>
+      |
+      <a href="https://esri-es.github.io/awesome-arcgis/" target="_blank">
+        ArcGIS Awesome List
+      </a>
     </p>
   </div>
 
@@ -181,6 +196,10 @@
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(ga, s);
   })();
+  window.onload = function(){
+      //document.getElementById('gsc-i-id1').placeholder = 'Search: Vector tiles, Kotlin, Big Data, Web AppBuilder, Mansour Raad, ...';
+      //document.getElementById('gsc-i-id1').placeholder = 'Esri Search';
+  };
   </script>
 
 </body>

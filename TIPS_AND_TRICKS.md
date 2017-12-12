@@ -11,6 +11,12 @@
 
 * Buscar expertos a quien seguir: busca speakers en charlas
 
+# Problemas, dudas, consultas, ideas, etc
+
+El siguiente diagrama representa la mejor manera para resolver problemas o dudas, realizar consultas, compartir ideas, etc.
+
+[![Diagrama Flujo óptimo para problemas, dudas, consultas, ideas, etc. - ArcGIS Developers](https://docs.google.com/drawings/d/e/2PACX-1vTwKhAflcJlY6FEiZBXazN03oAnOTeuA1DwRFtDkukiVV_T5I4evJpXRwi2AbP64HefgyxaGJN1C9mf/pub?w=800)](https://docs.google.com/drawings/d/e/2PACX-1vTwKhAflcJlY6FEiZBXazN03oAnOTeuA1DwRFtDkukiVV_T5I4evJpXRwi2AbP64HefgyxaGJN1C9mf/pub?w=2167&h=1023)
+
 # Which are the `ArcGIS Search` project sources
 
 * **More than 12 Github accounts, for example**: github.com/Esri, github.com/esridc, github.com/esripdx, github.com/Esri-DevCenter-Beijing, github.com/ycabon, github.com/tomwayson, github.com/hhkaos, ...

@@ -1,5 +1,5 @@
 # arcgis-search
-Search engine for ArcGIS resources. Check this ![cheatsheet for advanced Google Searches](https://cdn.zapier.com/storage/photos/1909af2500a0b1cce729037082e3f408.png)
+Search engine for ArcGIS resources. Check this [cheatsheet for advanced Google Searches](https://cdn.zapier.com/storage/photos/1909af2500a0b1cce729037082e3f408.png)
 
 [![Screenshot](https://raw.githubusercontent.com/esri-es/arcgis-search/master/assets/img/ArcGIS%20Search.png)](https://esri-es.github.io/arcgis-search/)
 

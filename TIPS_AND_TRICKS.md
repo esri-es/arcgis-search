@@ -1,8 +1,8 @@
 # Consejos y trucos para buscar recursos
-It has been moved to [https://github.com/esri-es/arcgis-developer-tips-and-tricks](https://github.com/esri-es/arcgis-developer-tips-and-tricks)
+It has been moved to [https://github.com/esri-es/arcgis-developer-tips-and-tricks](https://github.com/esri-es/arcgis-developer-tips-and-tricks#more-advices-to-search-resources)
 
 # Problemas, dudas, consultas, ideas, etc
-It has been moved to [https://github.com/esri-es/arcgis-developer-tips-and-tricks](https://github.com/esri-es/arcgis-developer-tips-and-tricks)
+It has been moved to [https://github.com/esri-es/arcgis-developer-tips-and-tricks](https://github.com/esri-es/arcgis-developer-tips-and-tricks#optimized-flow-for-solve-your-needs)
 
 # Which are the `ArcGIS Search` project sources
 It has been moved to [https://github.com/esri-es/arcgis-search/README.md](https://github.com/esri-es/arcgis-search/blob/master/README.md#which-are-the-arcgis-search-project-sources).

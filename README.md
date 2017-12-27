@@ -3,6 +3,48 @@ Search engine for ArcGIS resources
 
 [![Screenshot](https://raw.githubusercontent.com/esri-es/arcgis-search/master/assets/img/ArcGIS%20Search.png)](https://esri-es.github.io/arcgis-search/)
 
+## Which are the `ArcGIS Search` project sources
+
+* **More than 12 Github accounts, for example**: github.com/Esri, github.com/esridc, github.com/esripdx, github.com/Esri-DevCenter-Beijing, github.com/ycabon, github.com/tomwayson, github.com/hhkaos, ...
+* **Esri's Inc domains**:
+  * www.esri.com/*
+  * developers.arcgis.com/*
+  * resources.arcgis.com/*
+  * marketplace.arcgis.com/*
+  * codesharing.arcgis.com/*
+  * pro.arcgis.com/*
+  * server.arcgis.com/*
+  * proceedings.esri.com/*
+  * support.esri.com/*
+  * esripress.esri.com/*
+  * blogs.esri.com/esri/*
+  * doc.arcgis.com/*
+  * geonet.esri.com/*
+  * community.esri.com/*
+  * esri.com/videos/*
+  * learn.arcgis.com/*
+  * help.arcgis.com/*
+  * terraformer.io
+  * pdx.esri.com/*
+  * dc.esri.com/*
+* **Esri's Spain domains**:
+  * www.esri.es/*
+  * desarrolladores.esri.es/*
+  * startups.esri.es/*
+  * ce17.esri.es*
+  * github.com/esri-es/*
+  * esri-es.github.io/awesome-arcgis/*
+  * github.com/geo-developers/*
+  * www.geodevelopers.org/*
+  * meetup.com/es-ES/Geo-Developers/*
+* **Esri's UK domains**:
+  * github.com/maplabs/*
+* **Other domains**: 
+  * odoe.net/*
+  * tomwayson.com/*
+  * gavinr.com/*
+  * gis.stackexchange.com
+
 # Advanced search - Items
 
 You can find more information about [advanced search capabitilies here](http://doc.arcgis.com/en/arcgis-online/reference/search.htm#ESRI_SECTION1_18FD99A1020547BA864FCEBECBE267F3)
@@ -16,8 +58,6 @@ There is some info in the [Items and item types](http://resources.arcgis.com/en/
 |[VR360](http://www.arcgis.com/home/search.html?q=typekeywords%3AVR360&t=content&start=1&sortOrder=desc&sortField=relevance)|An 360-degree virtual reality experience that lets you explore a set of connected, geo-located panoramic 3D visualizations or photos|
 |[Web Map (Collector Ready)](http://www.arcgis.com/home/search.html?q=type%3A%22Web%20Map%22%20typekeywords%3ACollector&t=content&start=1&sortOrder=desc&sortField=relevance)|Web map that is Collector ready and will be available in Collector. The Map contains at least one editable layer that supports versioning.
 |[Web Map<br>(Offline Ready)](http://www.arcgis.com/home/search.html?q=type%3A%22Web%20Map%22%20typekeywords%3AOffline&t=content&start=1&sortOrder=desc&sortField=relevance)|Web map being capable of working offline. The map contains only layers that are offline capable.
-
-
 
 ## Search by type
 

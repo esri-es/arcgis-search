@@ -53,12 +53,12 @@ Follow this three simple steps:
   * meetup.com/es-ES/Geo-Developers/*
 * **Esri's UK domains**:
   * github.com/maplabs/*
-* **Other domains**: 
+* **Other domains**:
   * odoe.net/*
   * tomwayson.com/*
   * gavinr.com/*
   * gis.stackexchange.com
-  
+
 ## Advanced Google search tips
 
 |Pattern|What it does|Example|
@@ -73,7 +73,7 @@ Follow this three simple steps:
 |Parenthesis|Control order of operators| [GTFS javascript AND (site:community.esri.com OR site:geonet.esri.com OR site:community.esri.com OR site:gis.stackexchange.com)](https://esri-es.github.io/arcgis-search/?amp%3Butm_source=opensearch&search=GTFS%20javascript%20AND%20(site:community.esri.com%20OR%20site:geonet.esri.com%20OR%20site:community.esri.com%20OR%20site:gis.stackexchange.com))|
 
 
-More info: 
+More info:
 * [6 common misconceptions when doing advanced Google Searching](http://musingsaboutlibrarianship.blogspot.com.es/2015/10/6-common-misconceptions-when-doing.html)
 * [Cheatsheet for advanced Google searches](https://cdn.zapier.com/storage/photos/1909af2500a0b1cce729037082e3f408.png).
 
@@ -108,6 +108,7 @@ There are some searches that you may want to do but there is no specific metadat
 |[Vector tile basemaps built by the community](http://www.arcgis.com/home/search.html?q=type%3A%22Vector%20Tile%20Service%22%20tags%3Abasemap&t=content&start=1&sortOrder=desc&sortField=relevance)|type:"Vector Tile Service" tags:basemap
 |[Map journal storymaps](http://www.arcgis.com/home/search.html?t=content&q=tags%3A%22map%20journal%22%20typekeywords%3A%22Ready%20To%20Use%22&start=1&sortOrder=desc&sortField=relevance)|tags:"map journal" typekeywords:"Ready To Use"|
 |[Self configured templates](http://www.arcgis.com/home/search.html?t=content&q=type%3A%22Web%20Mapping%20Application%22%20typekeywords%3A%22selfConfigured%22%20NOT%20typekeywords%3A%22Ready%20To%20Use%22&start=1&sortOrder=desc&sortField=numviews)|type:"Web Mapping Application" typekeywords:"selfConfigured" NOT typekeywords:"Ready To Use"
+|<a name="codesharing"></a>[Code samples](http://www.arcgis.com/home/search.html?q=%28type%3A%22code%20samples%22%20OR%20type%3A%22add-ins%22%20OR%20type%3A%22geoprocessing%20samples%22%29%20-type%3A%22Code%20Attachment%22%20-type%3A%22Featured%20Items%22%20-type%3A%22Symbol%20Set%22%20-type%3A%22Color%20Set%22%20-type%3A%22Windows%20Viewer%20Add%20In%22%20-type%3A%22Windows%20Viewer%20Configuration%22&start=1&sortOrder=desc&sortField=relevance%29) (used by [codesharing.arcgis.com](http://codesharing.arcgis.com/))| type:"code samples" OR type:"add-ins" OR type:"geoprocessing samples") -type:"Code Attachment" -type:"Featured Items" -type:"Symbol Set" -type:"Color Set" -type:"Windows Viewer Add In" -type:"Windows Viewer Configuration"|
 
 ## Groups
 

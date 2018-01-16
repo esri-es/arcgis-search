@@ -77,6 +77,10 @@ More info:
 * [6 common misconceptions when doing advanced Google Searching](http://musingsaboutlibrarianship.blogspot.com.es/2015/10/6-common-misconceptions-when-doing.html)
 * [Cheatsheet for advanced Google searches](https://cdn.zapier.com/storage/photos/1909af2500a0b1cce729037082e3f408.png).
 
+----
+
+> **Note:** Everything bellow this line has been migrated to the [ArcGIS Developer Tips and Tricks repo](https://github.com/esri-es/arcgis-developer-tips-and-tricks/tree/master/arcgis-online#search-by-typekeywords)
+
 # Advanced search - Items
 
 ## Search by typekeywords

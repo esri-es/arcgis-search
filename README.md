@@ -40,44 +40,21 @@ Follow this three simple steps:
 
 ## Which are the `ArcGIS Search` project sources
 
-* **More than 12 Github accounts, for example**: github.com/Esri, github.com/esridc, github.com/esripdx, github.com/Esri-DevCenter-Beijing, github.com/ycabon, github.com/tomwayson, github.com/hhkaos, ...
-* **Esri's Inc domains**:
-  * www.esri.com/*
-  * developers.arcgis.com/*
-  * resources.arcgis.com/*
-  * marketplace.arcgis.com/*
-  * codesharing.arcgis.com/*
-  * pro.arcgis.com/*
-  * server.arcgis.com/*
-  * proceedings.esri.com/*
-  * support.esri.com/*
-  * esripress.esri.com/*
-  * blogs.esri.com/esri/*
-  * doc.arcgis.com/*
-  * geonet.esri.com/*
-  * community.esri.com/*
-  * esri.com/videos/*
-  * learn.arcgis.com/*
-  * help.arcgis.com/*
-  * terraformer.io
-  * pdx.esri.com/*
-  * dc.esri.com/*
-* **Esri's Spain domains**:
-  * www.esri.es/*
-  * desarrolladores.esri.es/*
-  * startups.esri.es/*
-  * ce17.esri.es*
-  * github.com/esri-es/*
-  * esri-es.github.io/awesome-arcgis/*
-  * github.com/geo-developers/*
-  * www.geodevelopers.org/*
-  * meetup.com/es-ES/Geo-Developers/*
-* **Esri's UK domains**:
-  * github.com/maplabs/*
-* **Other domains**:
-  * odoe.net/*
-  * tomwayson.com/*
-  * gavinr.com/*
+This search engine searches over **240 cured sources** (websites).
+
+* **+180 Github accounts, for example**: 
+  * **Esri Inc's accounts**: github.com/Esri, github.com/esridc, github.com/esripdx, github.com/Esri-DevCenter-Beijing, github.com/koopjs, ...
+  * **Distributor's accounts**: github.com/esri-es, github.com/maplabs, github.com/esrinederland, ...
+  * **Employee's accounts**: github.com/ycabon, github.com/tomwayson, github.com/hhkaos, ...
+* **[Esri's Inc domains and subdomains](https://esri-es.github.io/awesome-arcgis/esri/#websites)**: *.esri.com, *.arcgis.com, terraformer.io, ...
+* **[+10 Esri's distributors sites](https://www.arcgis.com/home/item.html?id=75ca54d137ba47f49fddfb40606a93cd#visualize)**:
+   * **Spain**: *.esri.es, esriblog.wordpress.com, ...
+   * **UK**: esriuk.com
+   * **Canada**: esri.ca
+   * **Australia**: esriaustralia.com.au
+   * ...
+* **[+30 employees personal websites, blogs, etc](https://esri-es.github.io/arcgis-experts/)**: odoe.net, tomwayson.com, gavinr.com, raluca-nicola.net, husseinnasser.com, ...
+* **Others**
   * gis.stackexchange.com
 
 ## Advanced Google search tips

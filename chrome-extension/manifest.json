@@ -1,0 +1,22 @@
+{
+    "name": "ArcGIS Search - Omnibox",
+    "description": "Save time by searching over 240 cured sources at once directly from the Chrome Omnibox using Google Programmable Search Engine",
+    "version": "1.0.4",
+    "manifest_version": 3,
+    "background":{
+        "service_worker": "background.js"
+    },
+    "omnibox": { "keyword" : "@" },
+    "action": {
+    "default_icon": {
+        "16": "search-icon-16.png",
+        "32": "search-icon-32.png"
+        }
+    },
+    "icons": {
+        "16": "search-icon-16.png",
+        "32": "search-icon-32.png",
+        "48": "search-icon-48.png",
+        "128": "search-icon-128.png"
+    }
+}

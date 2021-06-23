@@ -22,6 +22,9 @@
     margin-left: 5%;
     float: right;
   }
+  table.gsc-search-box td.gsc-input {
+    padding-right: 0!important;
+  }
   /* Custom, iPhone Retina */
   @media only screen and (min-width : 320px) {
 
@@ -95,10 +98,18 @@
     border: 0!important;
     box-shadow: none !important;
   }
-  .gsc-search-button input{
+  .gsc-search-button input,
+  .gsc-search-button > button{
     margin-left: 1rem !important;
     padding: 1rem 2rem !important;
     background-color: #5989f3 !important;
+  }
+  .gsc-search-box table{
+    box-shadow: none;
+
+  }
+  .gsc-above-wrapper-area{
+    border-bottom: 0!important;
   }
   .centered{
     text-align: center;

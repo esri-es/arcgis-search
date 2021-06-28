@@ -28,7 +28,11 @@ This make it difficult to get a full picture of everything related to any topic,
 
 ### Google Chrome
 
-Follow this three simple steps:
+The easiest way is to install the [Chrome Extension](https://chrome.google.com/webstore/detail/arcgis-search-omnibox/cbpnkekjkiboknllmdifagjniihbbfkm):
+
+[![Screenshot ArcGIS Search Chrome Extension](https://user-images.githubusercontent.com/826965/123645135-587ee480-d826-11eb-8362-de431a882914.png)](https://chrome.google.com/webstore/detail/arcgis-search-omnibox/cbpnkekjkiboknllmdifagjniihbbfkm)
+
+But you can also follow this three simple steps:
 
 1. Open: [chrome://settings/searchEngines](chrome://settings/searchEngines)
 
